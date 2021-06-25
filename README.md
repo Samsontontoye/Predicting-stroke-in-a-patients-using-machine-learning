@@ -1,1 +1,1 @@
-# Predicting-stroke-in-a-patients-using-machine-learning
+# Predicting-stroke-in-patients-using-machine-learning
